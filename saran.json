@@ -1,7 +1,7 @@
 
   "data": [
-    {"saran_sedikit": "Meskipun sedikit kalori dari makanan yang kamu makan tubuh kamu akan tetap bekerja secara optimal"},
-    {"saran_sedang": "Dengan jumlah kalori yang cukup tubuh kamu akan bekerja dengan optimal makanlah makan yang berkalori cukup"},
-    {"saran_banyak": "Wah tubuh kamu memerlukan banyak kalori agar tubuh kamu bisa bekerja secara optimal makan lah makanan yang memiliki jumlah kalori yang banyak"}
+    {"saran": "Meskipun sedikit kalori dari makanan yang kamu makan tubuh kamu akan tetap bekerja secara optimal"},
+    {"saran": "Dengan jumlah kalori yang cukup tubuh kamu akan bekerja dengan optimal makanlah makan yang berkalori cukup"},
+    {"saran": "Wah tubuh kamu memerlukan banyak kalori agar tubuh kamu bisa bekerja secara optimal makan lah makanan yang memiliki jumlah kalori yang banyak"}
   ]
 
