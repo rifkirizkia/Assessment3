@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785531945165",
+    "project_id": "assessment3-cabf4",
+    "storage_bucket": "assessment3-cabf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785531945165:android:fe04545112532b5719e984",
+        "android_client_info": {
+          "package_name": "org.d3if1139.penghitungkalori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785531945165-8e3fk66t5jplt5ldceq8le5b7nljakqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCrRes5yEgYStiy6fradI9Gu9MK9wAec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785531945165-8e3fk66t5jplt5ldceq8le5b7nljakqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
